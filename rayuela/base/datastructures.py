@@ -1,4 +1,4 @@
-# stolen from https://github.com/timvieira/arsenal/blob/master/arsenal/datastructures/heap/heap.pyx
+# base code from https://github.com/timvieira/arsenal/blob/master/arsenal/datastructures/heap/heap.pyx
 
 import numpy as np
 
