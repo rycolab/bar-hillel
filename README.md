@@ -1,5 +1,8 @@
 To start run:
+  
+  
   cd rayuela
+  
   pip install -e .
   
 The code for the generalized Bar-Hillel construction is
