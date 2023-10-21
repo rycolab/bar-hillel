@@ -1,5 +1,9 @@
 # On the Intersection of Context-Free and Regular Languages
 
+This repository includes code supporting [Pasti et al.'s (2023)](https://aclanthology.org/2023.eacl-main.52) efficient algorithm for interesting weighted finite-state automata and weight context-free grammars.
+
+![image](https://github.com/rycolab/bar-hillel/assets/219898/9d3a86c4-2c26-4e83-ba8b-6ba6942fe631)
+
 ## Installation and Usage
 
 ```  
