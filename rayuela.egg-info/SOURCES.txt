@@ -1,8 +1,0 @@
-README.md
-setup.py
-rayuela/__init__.py
-rayuela.egg-info/PKG-INFO
-rayuela.egg-info/SOURCES.txt
-rayuela.egg-info/dependency_links.txt
-rayuela.egg-info/requires.txt
-rayuela.egg-info/top_level.txt
