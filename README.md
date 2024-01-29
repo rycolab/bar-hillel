@@ -8,7 +8,7 @@ This repository includes code supporting [Pasti et al.'s (2023)](https://aclanth
 
 ```
 git clone https://github.com/rycolab/bar-hillel.git
-cd rayuela
+cd bar-hillel
 pip install -e .
 ```
 
